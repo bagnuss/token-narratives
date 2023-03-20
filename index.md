@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Bagnuss Test INDEX
 
 | Token | Name | Narratives | 
