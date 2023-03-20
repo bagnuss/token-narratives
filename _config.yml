@@ -30,7 +30,7 @@ twitter_username: bagnuss
 github_username:  bagnuss
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
