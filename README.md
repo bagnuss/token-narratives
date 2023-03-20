@@ -1,4 +1,4 @@
-## Bagnuss Test
+## Bagnuss Test README
 
 | Token | Name | Narratives | 
 | ------- | ------- | ------- |

@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+ p
+{
+   font-family: Verdana, Arial, sans-serif !important;
+}
+
+code *
+{
+   font-family: 'Inconsolata', Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
+}
+
+
+ul {
+   font-family: Verdana, Arial, sans-serif !important;
+ }
+ 
+
+li {
+  margin-top: 10px  !important;
+  margin-bottom: 10px !important;
+}
+ 
+ blockquote {
+   font-style: italic  !important;
+ }
